@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "02-ionic-core",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
